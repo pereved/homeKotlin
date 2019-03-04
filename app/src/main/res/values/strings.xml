@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">kotlin_2</string>
+    <string name="text_tittle_blank">Very important note</string>
+    <string name="text_body_blank">My very important note text with very important information</string>
+</resources>
